@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="">
+        <p>
+            <span>Username</span>
+            <input type="text" name="user">
+        </p>
+    </form>
 </body>
 </html>
