@@ -10,6 +10,9 @@
     <form action="">
         First name <input type="text">
         Last name <input type="text">
+        <select name="" id="">
+            <option value="">Nice</option>
+        </select>
     </form>
 </body>
 </html>
