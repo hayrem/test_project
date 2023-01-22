@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="">
+        First name <input type="text">
+        Last name <input type="text">
+    </form>
 </body>
 </html>
